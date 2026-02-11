@@ -26,7 +26,11 @@ Responding with natural human-like voice output
 
 The system delivers intelligent, automated front-desk communication without rigid scripted IVR flows.
 
+
+
 🧠 How NeuraDesk Works
+
+
 1️⃣ Voice Input Processing
 
 User initiates a call
@@ -285,4 +289,5 @@ Deployment-ready scalable backend
 🧑‍💻 Author
 
 Manish
+
 AI Systems | Machine Learning | System Design
