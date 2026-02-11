@@ -14,7 +14,7 @@ Expensive to scale
 
 Inconsistent during high call volumes
 
-NeuraDesk automates the reception workflow by:
+✅ NeuraDesk automates the reception workflow by:
 
 Processing real-time voice input
 
@@ -24,7 +24,7 @@ Executing structured business logic
 
 Responding with natural human-like voice output
 
-The system delivers intelligent, automated front-desk communication without rigid scripted flows.
+The system delivers intelligent, automated front-desk communication without rigid scripted IVR flows.
 
 🧠 How NeuraDesk Works
 1️⃣ Voice Input Processing
@@ -43,7 +43,7 @@ Identifies user intent (booking, inquiry, routing, etc.)
 
 Extracts relevant details (name, date, time, purpose)
 
-Determines next conversational step
+Determines the next conversational step
 
 3️⃣ Business Logic Execution
 
@@ -63,7 +63,7 @@ AI generates contextual response text
 
 ElevenLabs converts text into natural speech
 
-Caller receives human-like voice reply
+Caller receives a human-like voice reply
 
 🏗 System Architecture
 User Call
@@ -83,27 +83,26 @@ Voice Response to User
 🧱 Project Structure
 NeuraDesk/
 │
-├── workflows/               # AI orchestration logic
-├── prompts/                 # LLM prompt templates
-├── integrations/            # API configurations
-├── documentation/           # Architecture & design notes
-├── README.md
+├── workflows/        # AI orchestration logic
+├── prompts/          # LLM prompt templates
+├── integrations/     # API configurations
+├── documentation/    # Architecture & design notes
+└── README.md
 
 🛠 Tech Stack
-
-Platform & AI:
+🔹 Platform & AI
 
 LLM-Based Conversational AI
 
 No-Code AI Orchestration Platform
 
-Voice Processing:
+🔹 Voice Processing
 
 Speech-to-Text Engine
 
 ElevenLabs (Text-to-Speech)
 
-Integration:
+🔹 Integration
 
 API-based workflow automation
 
@@ -188,19 +187,19 @@ Deployment-ready scalable backend
 
 🎓 Use Cases
 
-Hospitals & Clinics
+🏥 Hospitals & Clinics
 
-Corporate Offices
+🏢 Corporate Offices
 
-Hotels & Hospitality
+🏨 Hotels & Hospitality
 
-Educational Institutions
+🎓 Educational Institutions
 
-Customer Support Automation
+📞 Customer Support Automation
 
-AI Product Demonstrations
+🤖 AI Product Demonstrations
 
 🧑‍💻 Author
 
 Manish
-AI Systems | Machine Learning | System Design
+AI Systems | Machine Learning | System Desig
